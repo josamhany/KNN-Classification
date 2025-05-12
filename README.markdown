@@ -2,12 +2,7 @@
 
 ## Overview
 This project implements a K-Nearest Neighbors (KNN) classification model on the Wine dataset from scikit-learn. The dataset consists of 178 samples, 13 features, and 3 classes representing different wine cultivars. The goal is to classify wines into their respective categories using KNN, with additional steps for data preprocessing, feature selection, and model evaluation.
-
-## Team
-- Mina Kirolos Mansour (23011577)  
-- Josam Hany Fouad (23010095)  
-- Mina Wahed Youssef (23012068)  
-
+ 
 ## Dataset
 The Wine dataset from scikit-learn is used in this project. It includes:
 - **Number of Samples**: 178
