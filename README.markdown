@@ -60,7 +60,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn micropip
 - Detailed model performance metrics will be displayed upon running the notebook, including accuracy, precision, recall, F1-score, and a confusion matrix.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LinkedIn]([LICENSE](https://www.linkedin.com/posts/josam-hany-76b449301_machinelearning-datascience-knn-activity-7327682512460095488-5oyu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0hRQMBJwwXzE_2WIlbIlC2-W8nTypJdkU)) file for details.
 
 ## Contact
 For any questions or contributions, please contact the team members via GitHub or email.
